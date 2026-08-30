@@ -1,0 +1,25 @@
+{
+  "name": "おこしてますだ",
+  "short_name": "おこしてますだ",
+  "description": "ますだファミリーをおこして遊ぶ、オフライン対応のゲーム",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff8dd",
+  "theme_color": "#f4c542",
+  "lang": "ja",
+  "categories": ["games", "kids"],
+  "icons": [
+    {
+      "src": "./assets/title/family-cheer.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "./assets/title/family-cheer.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
